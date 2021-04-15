@@ -1,5 +1,5 @@
 def sourceEnvironment = ["dc25_qaautocand", "dc25_qacand", "dc25_qademouxr", "dc25_qavies", "dc25_qavdemosac", "dc25_qacandies"]
-def target_environment = = ["dc25_qaautocand", "dc25_qacand", "dc25_qademouxr", "dc25_qavies", "dc25_qavdemosac", "dc25_qacandies"]
+def target_environment = ["dc25_qaautocand", "dc25_qacand", "dc25_qademouxr", "dc25_qavies", "dc25_qavdemosac", "dc25_qacandies"]
 def targetPoolID = ["dbPool1"]
 
 pipeline {
